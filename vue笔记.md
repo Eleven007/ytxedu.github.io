@@ -1,3 +1,7 @@
+# 关于作者/About
+* github：[Eleven007](https://github.com/Eleven007)
+* 邮箱：[gyiriver@gmail.com]()
+
 # vue学习笔记
 ### vue定义
 vue.js是一套构建用户界面的渐进式框架，与其他重量级框架不同是，Vue采用自底向上增量开发的设计。
