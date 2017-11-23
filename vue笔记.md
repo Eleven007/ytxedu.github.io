@@ -48,5 +48,6 @@ var vm=new Vue({
 
 ### 生命周期
 <img src='https://cn.vuejs.org/images/lifecycle.png' width="400">
+
 ## 模板语法
 
